@@ -1,0 +1,146 @@
+[
+  {
+    "trtCode": "1",
+    "trt": "TRT-1",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro"
+  },
+  {
+    "trtCode": "2",
+    "trt": "TRT-2",
+    "estado": "SP",
+    "cidade": "São Paulo"
+  },
+  {
+    "trtCode": "3",
+    "trt": "TRT-3",
+    "estado": "MG",
+    "cidade": "Belo Horizonte"
+  },
+  {
+    "trtCode": "4",
+    "trt": "TRT-4",
+    "estado": "RS",
+    "cidade": "Porto Alegre"
+  },
+  {
+    "trtCode": "5",
+    "trt": "TRT-5",
+    "estado": "BA",
+    "cidade": "Salvador"
+  },
+  {
+    "trtCode": "6",
+    "trt": "TRT-6",
+    "estado": "PE",
+    "cidade": "Recife"
+  },
+  {
+    "trtCode": "7",
+    "trt": "TRT-7",
+    "estado": "CE",
+    "cidade": "Fortaleza"
+  },
+  {
+    "trtCode": "8",
+    "trt": "TRT-8",
+    "estado": "PA, AP",
+    "cidade": "Belém"
+  },
+  {
+    "trtCode": "9",
+    "trt": "TRT-9",
+    "estado": "PR",
+    "cidade": "Curitiba"
+  },
+  {
+    "trtCode": "10",
+    "trt": "TRT-10",
+    "estado": "DF, TO",
+    "cidade": "Brasília"
+  },
+  {
+    "trtCode": "11",
+    "trt": "TRT-11",
+    "estado": "AM, RR",
+    "cidade": "Manaus"
+  },
+  {
+    "trtCode": "12",
+    "trt": "TRT-12",
+    "estado": "SC",
+    "cidade": "Florianópolis"
+  },
+  {
+    "trtCode": "13",
+    "trt": "TRT-13",
+    "estado": "PB",
+    "cidade": "João Pessoa"
+  },
+  {
+    "trtCode": "14",
+    "trt": "TRT-14",
+    "estado": "RO, AC",
+    "cidade": "Porto Velho"
+  },
+  {
+    "trtCode": "15",
+    "trt": "TRT-15",
+    "estado": "SP (interior)",
+    "cidade": "Campinas"
+  },
+  {
+    "trtCode": "16",
+    "trt": "TRT-16",
+    "estado": "MA",
+    "cidade": "São Luís"
+  },
+  {
+    "trtCode": "17",
+    "trt": "TRT-17",
+    "estado": "ES",
+    "cidade": "Vitória"
+  },
+  {
+    "trtCode": "18",
+    "trt": "TRT-18",
+    "estado": "GO",
+    "cidade": "Goiânia"
+  },
+  {
+    "trtCode": "19",
+    "trt": "TRT-19",
+    "estado": "AL",
+    "cidade": "Maceió"
+  },
+  {
+    "trtCode": "20",
+    "trt": "TRT-20",
+    "estado": "SE",
+    "cidade": "Aracaju"
+  },
+  {
+    "trtCode": "21",
+    "trt": "TRT-21",
+    "estado": "RN",
+    "cidade": "Natal"
+  },
+  {
+    "trtCode": "22",
+    "trt": "TRT-22",
+    "estado": "PI",
+    "cidade": "Teresina"
+  },
+  {
+    "trtCode": "23",
+    "trt": "TRT-23",
+    "estado": "MT",
+    "cidade": "Cuiabá"
+  },
+  {
+    "trtCode": "24",
+    "trt": "TRT-24",
+    "estado": "MS",
+    "cidade": "Campo Grande"
+  }
+]
